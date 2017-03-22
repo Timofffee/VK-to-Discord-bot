@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 token = 'token'
-ID = 'AppID'
-secret = 'secret'
-group_id = '123456'
-greeting = 'It\'s work!'
+ID = 'Id'
+secret = 'SFSfsffesr22fe'
+group_id = '1251224'
+greeting = 'Здравствуйте'
